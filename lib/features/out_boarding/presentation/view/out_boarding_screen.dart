@@ -191,7 +191,7 @@ class _OutBoardingScreenState extends State<OutBoardingScreen> {
                 textStyle: TextStyle(
                   fontSize: ManagerFontSizes.s16,
                   fontWeight: ManagerFontWeight.regular,
-                  color: ManagerColors.white,
+                  color: Colors.white,
                 ),
                 onPressed: () {},
               ),
